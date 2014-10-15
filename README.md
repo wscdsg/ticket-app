@@ -14,6 +14,7 @@
 * https://sustcticket.avosapps.com
 * https://keddooticket.avosapps.com
 * https://shguo.avosapps.com
+* https://ticket001.avosapps.com
 
 
 这是基于 AVOS Cloud 的 **Javascript SDK** 和 **云代码** 功能做的。
