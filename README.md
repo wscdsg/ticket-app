@@ -6,6 +6,17 @@
 
 这是 AVOS Cloud 的工单系统的开源版本。请见 [myticket.avosapps.com](http://myticket.avosapps.com)
 
+## 当前使用本项目搭建的网站
+* https://ticket.avosapps.com
+* https://yanest.avosapps.com (http://tickets.lingyun.io/)
+* https://myticket.avosapps.com
+* https://support.avosapps.com
+* https://sustcticket.avosapps.com
+* https://keddooticket.avosapps.com
+* https://shguo.avosapps.com
+* https://ticket001.avosapps.com
+
+
 这是基于 AVOS Cloud 的 **Javascript SDK** 和 **云代码** 功能做的。
 
 ##云代码可以干什么？
@@ -33,25 +44,25 @@
 ## 工单系统的特性
 
 ###列举工单
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/list.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/list.png)
 
 ###根据工程师负责模块的不同，显示相应类型的工单，分工明确
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/filter.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/filter.png)
 
 ###一个简洁的时间线回复
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/reply.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/reply.png)
 
 ### 与内部沟通工具相集成，方便及时回复
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/integration.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/integration.png)
 
 ### 工程师联系信息列表
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/contact.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/contact.png)
 
 ### 搜索工单
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/search.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/search.png)
 
 ### 工程师回复统计
-![img](https://github.com/avoscloud/ticket-app/blob/master/readme/stat.png)
+![img](https://raw.githubusercontent.com/avoscloud/ticket-app/master/readme/stat.png)
 
 
 改一下工单类别，增加几个管理员登录，改一下标题 `AVOS Cloud 技术支持系统`，就可以为你的公司、团队也搭建一个技术支持系统。
@@ -92,3 +103,11 @@
 * [从 url 访问到网页展示](https://github.com/avoscloud/ticket-app/wiki/%E4%BB%8E-url-%E8%AE%BF%E9%97%AE%E5%88%B0%E7%BD%91%E9%A1%B5%E5%B1%95%E7%A4%BA)
 * [并行Promise处理](https://github.com/avoscloud/ticket-app/wiki/%E5%B9%B6%E8%A1%8CPromise%E5%A4%84%E7%90%86)
 * [用户信息更改页的处理方法](https://github.com/avoscloud/ticket-app/wiki/%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E6%9B%B4%E6%94%B9%E9%A1%B5%E7%9A%84%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95)
+
+
+## License
+
+MIT
+
+[AVOS Cloud 站点下载地址](https://download.avoscloud.com/demo/)
+
