@@ -12,7 +12,7 @@ exports.cookieParserSalt="klp4e8b4sddjp2";
 exports.mailGunKey='';//please use your mailGunKey
 
 //请设置自己的slackUrl，有工单回复的时候通知此slack聊天工具
-exports.slackUrl='https://avoscloud.slack.com/services/hooks/incoming-webhook?token=rNDqBLRC8TlG4YkPKBZSe2qB';
+exports.slackUrl='https://hooks.slack.com/services/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';
 
 //配置自己申请的子域名
 exports.hostUrl='http://myticket.avosapps.com';
