@@ -69,7 +69,7 @@
 
 ## 本地调试
 
-只需要正常的云代码调试即可，需要 [云代码调试工具](https://blog.avoscloud.com/591/)
+只需要正常的云代码调试即可，需要 [云代码调试工具](https://cn.avoscloud.com/docs/cloud_code_commandline.html)
 
 * 命令行输入 `avoscloud`
 * 浏览器打开 `http://localhost:3000/`
