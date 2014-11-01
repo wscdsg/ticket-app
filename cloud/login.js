@@ -107,3 +107,4 @@ exports.anonymousToken = anonymousToken;
 exports.anonymousCid = anonymousCid;
 exports.isLogin = isLogin;
 exports.isAdmin = isAdmin;
+exports.renderEmailVerify = renderEmailVerify;
