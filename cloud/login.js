@@ -9,6 +9,7 @@ var mlog = require('cloud/mlog.js');
 var muser = require('cloud/muser.js');
 var mutil = require('cloud/mutil.js');
 var madmin = require('cloud/madmin.js');
+var config = require('cloud/config.js');
 
 function setResLoginStatus(res, isLogin, client) {
   res.locals.isLogin = isLogin;
@@ -74,7 +75,7 @@ exports.clientTokenParser = function () {
         isAdmin(cid).then(function (isAdmin) {
           req.admin = isAdmin;
           if (req.cid != anonymousCid && client.emailVerified == false) {
-            if (/^\/requestEmailVerify/.test(req.url)) {
+            if (/^\/(requestEmailVerify|logout)/.test(req.url) || config.needEmailVerify === false) {
               next();
             } else {
               renderEmailVerify(res, client.email);
