@@ -19,3 +19,6 @@ exports.hostUrl='http://myticket.avosapps.com';
 
 //邮件的发送者，平时管理员回复了你的工单的时候，你便会收到来自这个邮箱的email
 exports.emailHost='notification@avoscloud.com';
+
+//注册后，是否需要通过邮件验证才可以使用工单系统
+exports.needEmailVerify = false;
