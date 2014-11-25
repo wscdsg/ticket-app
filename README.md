@@ -4,7 +4,7 @@
 
 ###[ticket.avosapps.com](http://ticket.avosapps.com/)
 
-这是 AVOS Cloud 的工单系统的开源版本。请见 [myticket.avosapps.com](http://myticket.avosapps.com)
+这是 LeanCloud 的工单系统的开源版本。请见 [myticket.avosapps.com](http://myticket.avosapps.com)
 
 ## 当前使用本项目搭建的网站
 * https://ticket.avosapps.com
