@@ -15,6 +15,7 @@
 * https://keddooticket.avosapps.com
 * https://shguo.avosapps.com
 * https://ticket001.avosapps.com
+* https://yibogongdan.avosapps.com
 
 
 这是基于 LeanCloud 的 **Javascript SDK** 和 **云代码** 功能做的。
